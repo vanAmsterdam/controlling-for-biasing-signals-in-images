@@ -1,5 +1,7 @@
 # Controlling for Biasing Signals in Images: Survival Predictions for Lung Cancer with Deep Learning
 
+[![DOI](https://zenodo.org/badge/207314717.svg)](https://zenodo.org/badge/latestdoi/207314717)
+
 This repository contains the necessary files to reproduce the results of paper
 "Controlling for Biasing Signals in Images: Survival Predictions for Lung Cancer with Deep Learning"
 by W.A.C. van Amsterdam, J.J.C. Verhoeff, P.A. de Jong, T. Leiner and M.J.C. Eijkemans
